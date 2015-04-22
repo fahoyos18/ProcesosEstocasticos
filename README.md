@@ -1,2 +1,0 @@
-# ProcesosEstocasticos
-Talleres Procesos estocasticos
